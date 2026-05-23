@@ -1,6 +1,6 @@
-# Privacy Policy
+# プライバシーポリシー
 
-Self Growth NOTE（以下、「本アプリ」）は、
+自己成長NOTE（以下、「本アプリ」）は、
 ユーザー体験向上および広告配信のため、
 一部情報を取得する場合があります。
 
@@ -26,4 +26,5 @@ Cookie等を使用する場合があります。
 
 ## お問い合わせ
 
-運営者：HK Business Academy
+運営者：GSWビジネスアカデミー（e-mail:gswbusinessacademy@gmail.com)
+
