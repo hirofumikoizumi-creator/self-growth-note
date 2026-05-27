@@ -9,6 +9,15 @@
 本アプリでは Google AdMob を利用する予定です。
 広告配信の認証情報は、同じサイト上の app-ads.txt に公開しています。
 
+app-ads.txt の公開URL：
+https://hirofumikoizumi-creator.github.io/app-ads.txt
+
+app-ads.txt の内容：
+
+```txt
+google.com, pub-5840457424714744, DIRECT, f08c47fec0942fa0
+```
+
 広告配信事業者は、
 ユーザーの興味に応じた広告を表示するため、
 Cookie等を使用する場合があります。
